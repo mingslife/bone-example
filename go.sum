@@ -16,3 +16,5 @@ github.com/mingslife/bone v0.0.1 h1:ip0hxlJrZOEfF8saHk8VAcOOPIrR9xYKIlZUBBQcLRs=
 github.com/mingslife/bone v0.0.1/go.mod h1:TrxcoarxCQb/6JhiV45l0oDbS065bpKDTIviML8cDFg=
 github.com/mingslife/bone v0.0.2 h1:aCYifI+U8l5B0+Tu17jh8NpdAtLnjtvYKx7TwYiidvg=
 github.com/mingslife/bone v0.0.2/go.mod h1:TrxcoarxCQb/6JhiV45l0oDbS065bpKDTIviML8cDFg=
+github.com/mingslife/bone v0.0.3 h1:1O10H5iVr1haReyNxIfOSXGk/HVxHWIPxhYstiiUFRY=
+github.com/mingslife/bone v0.0.3/go.mod h1:TrxcoarxCQb/6JhiV45l0oDbS065bpKDTIviML8cDFg=

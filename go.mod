@@ -9,5 +9,5 @@ require (
 	github.com/go-kit/log v0.2.1 // indirect
 	github.com/go-logfmt/logfmt v0.5.1 // indirect
 	github.com/gorilla/mux v1.8.0 // indirect
-	github.com/mingslife/bone v0.0.2 // indirect
+	github.com/mingslife/bone v0.0.3 // indirect
 )
